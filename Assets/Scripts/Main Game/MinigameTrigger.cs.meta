@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5465c513cfde64d18bd1f47ca95539b9
+timeCreated: 1463163828
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - winSound: {instanceID: 0}
+  - failSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

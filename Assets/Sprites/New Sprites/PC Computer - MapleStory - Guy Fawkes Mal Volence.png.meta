@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 579e9c64e1f8d1249af435df4ec252dc
+timeCreated: 1463366212
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Guy Fawkes Mal Volence_0
+    21300002: PC Computer - MapleStory - Guy Fawkes Mal Volence_1
+    21300004: PC Computer - MapleStory - Guy Fawkes Mal Volence_2
+    21300006: PC Computer - MapleStory - Guy Fawkes Mal Volence_3
+    21300008: PC Computer - MapleStory - Guy Fawkes Mal Volence_4
+    21300010: PC Computer - MapleStory - Guy Fawkes Mal Volence_5
+    21300012: PC Computer - MapleStory - Guy Fawkes Mal Volence_6
+    21300014: PC Computer - MapleStory - Guy Fawkes Mal Volence_7
+    21300016: PC Computer - MapleStory - Guy Fawkes Mal Volence_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC Computer - MapleStory - Guy Fawkes Mal Volence_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 272
+        width: 287
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85.5, y: -2}
+        - {x: 143.5, y: 11}
+        - {x: 143.5, y: 46}
+        - {x: 95.5, y: 127}
+        - {x: -123.5, y: 127}
+        - {x: -143.5, y: 106}
+        - {x: -143.5, y: 18}
+        - {x: -87.5, y: -100}
+        - {x: -64.5, y: -77}
+        - {x: -63.5, y: -74}
+        - {x: -69.5, y: -109}
+        - {x: -91.5, y: -125}
+        - {x: -89.5, y: -127}
+        - {x: 48.5, y: -127}
+        - {x: 48.5, y: -126}
+        - {x: 46.5, y: -123}
+        - {x: 78.5, y: -95}
+    - name: PC Computer - MapleStory - Guy Fawkes Mal Volence_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 270
+        width: 287
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143.5, y: 13}
+        - {x: 143.5, y: 35}
+        - {x: 120.5, y: 59}
+        - {x: 78.5, y: 120}
+        - {x: 41.5, y: 128}
+        - {x: -78.5, y: 128}
+        - {x: -83.5, y: 122}
+        - {x: -143.5, y: 68}
+        - {x: -143.5, y: 53}
+        - {x: -142.5, y: 50}
+        - {x: -86.5, y: 34}
+        - {x: -100.5, y: -53}
+        - {x: -89.5, y: -128}
+        - {x: 48.5, y: -128}
+        - {x: 48.5, y: -127}
+        - {x: 78.5, y: -90}
+        - {x: 93.5, y: 8}
+    - name: PC Computer - MapleStory - Guy Fawkes Mal Volence_2
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 268
+        width: 287
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.5, y: -81}
+        - {x: 67.5, y: -88}
+        - {x: 93.5, y: 9}
+        - {x: 143.5, y: 23}
+        - {x: 143.5, y: 34}
+        - {x: 77.5, y: 121}
+        - {x: 49.5, y: 129}
+        - {x: -79.5, y: 129}
+        - {x: -93.5, y: 126}
+        - {x: -143.5, y: 77}
+        - {x: -143.5, y: 54}
+        - {x: -111.5, y: 11}
+        - {x: -115.5, y: -129}
+        - {x: 51.5, y: -129}
+        - {x: 53.5, y: -79}
+        - {x: 53.5, y: -71}
+        - {x: 56.5, y: -79}
+    - name: PC Computer - MapleStory - Guy Fawkes Mal Volence_3
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 269
+        width: 287
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143.5, y: 34.5}
+        - {x: 107.5, y: 44.5}
+        - {x: 81.5, y: 125.5}
+        - {x: 41.5, y: 128.5}
+        - {x: -85.5, y: 128.5}
+        - {x: -122.5, y: 72.5}
+        - {x: -143.5, y: 66.5}
+        - {x: -143.5, y: 55.5}
+        - {x: -142.5, y: 51.5}
+        - {x: -98.5, y: 37.5}
+        - {x: -96.5, y: -53.5}
+        - {x: -89.5, y: -126.5}
+        - {x: -89.5, y: -128.5}
+        - {x: 48.5, y: -128.5}
+        - {x: 48.5, y: -127.5}
+        - {x: 74.5, y: -57.5}
+        - {x: 143.5, y: 17.5}
+    - name: PC Computer - MapleStory - Guy Fawkes Mal Volence_4
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 271
+        width: 287
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143.5, y: 11.5}
+        - {x: 143.5, y: 46.5}
+        - {x: 95.5, y: 127.5}
+        - {x: -121.5, y: 127.5}
+        - {x: -143.5, y: 104.5}
+        - {x: -143.5, y: 44.5}
+        - {x: -111.5, y: 17.5}
+        - {x: -104.5, y: -50.5}
+        - {x: -71.5, y: -80.5}
+        - {x: -63.5, y: -75.5}
+        - {x: -61.5, y: -73.5}
+        - {x: -89.5, y: -125.5}
+        - {x: -89.5, y: -127.5}
+        - {x: 48.5, y: -127.5}
+        - {x: 49.5, y: -125.5}
+        - {x: 76.5, y: -93.5}
+        - {x: 82.5, y: -0.5}
+    - name: PC Computer - MapleStory - Guy Fawkes Mal Volence_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 5
+        width: 286
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143, y: 37.5}
+        - {x: 88, y: 109.5}
+        - {x: 35, y: 128.5}
+        - {x: -83, y: 128.5}
+        - {x: -97, y: 86.5}
+        - {x: -143, y: 71.5}
+        - {x: -143, y: 48.5}
+        - {x: -113, y: 17.5}
+        - {x: -129, y: -50.5}
+        - {x: -99, y: -107.5}
+        - {x: -59, y: -128.5}
+        - {x: 23, y: -128.5}
+        - {x: 46, y: -119.5}
+        - {x: 77, y: -53.5}
+        - {x: 77, y: 3.5}
+        - {x: 143, y: 17.5}
+    - name: PC Computer - MapleStory - Guy Fawkes Mal Volence_6
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 7
+        width: 285
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 142.5, y: 17.5}
+        - {x: 142.5, y: 28.5}
+        - {x: 107.5, y: 48.5}
+        - {x: 81.5, y: 123.5}
+        - {x: 29.5, y: 127.5}
+        - {x: -86.5, y: 127.5}
+        - {x: -92.5, y: 125.5}
+        - {x: -142.5, y: 61.5}
+        - {x: -142.5, y: 46.5}
+        - {x: -131.5, y: 44.5}
+        - {x: -124.5, y: -47.5}
+        - {x: -101.5, y: -65.5}
+        - {x: -123.5, y: -81.5}
+        - {x: -89.5, y: -127.5}
+        - {x: 19.5, y: -127.5}
+        - {x: 59.5, y: -75.5}
+        - {x: 76.5, y: 15.5}
+        - {x: 141.5, y: 15.5}
+    - name: PC Computer - MapleStory - Guy Fawkes Mal Volence_7
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 2
+        width: 287
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 142.5, y: 20}
+        - {x: 143.5, y: 21}
+        - {x: 143.5, y: 38}
+        - {x: 77.5, y: 121}
+        - {x: 19.5, y: 130}
+        - {x: -66.5, y: 130}
+        - {x: -76.5, y: 129}
+        - {x: -83.5, y: 124}
+        - {x: -143.5, y: 76}
+        - {x: -143.5, y: 20}
+        - {x: -124.5, y: -50}
+        - {x: -107.5, y: -104}
+        - {x: -72.5, y: -129}
+        - {x: -60.5, y: -130}
+        - {x: 7.5, y: -130}
+        - {x: 25.5, y: -127}
+        - {x: 60.5, y: -82}
+        - {x: 84.5, y: 10}
+    - name: PC Computer - MapleStory - Guy Fawkes Mal Volence_8
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 3
+        width: 287
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.5, y: 129.5}
+        - {x: -95.5, y: 129.5}
+        - {x: -143.5, y: 70.5}
+        - {x: -143.5, y: 56.5}
+        - {x: -142.5, y: 52.5}
+        - {x: -98.5, y: 38.5}
+        - {x: -126.5, y: -28.5}
+        - {x: -119.5, y: -49.5}
+        - {x: -96.5, y: -68.5}
+        - {x: -101.5, y: -75.5}
+        - {x: -108.5, y: -95.5}
+        - {x: -103.5, y: -107.5}
+        - {x: -82.5, y: -123.5}
+        - {x: -34.5, y: -129.5}
+        - {x: 29.5, y: -129.5}
+        - {x: 44.5, y: -112.5}
+        - {x: 143.5, y: 14.5}
+        - {x: 143.5, y: 34.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

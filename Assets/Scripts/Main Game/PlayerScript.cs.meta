@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09023a497ff214b44b83ee345a884c0b
+timeCreated: 1463163838
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - currentMinigame: {instanceID: 0}
+  - clearSection: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
